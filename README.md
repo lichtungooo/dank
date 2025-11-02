@@ -1,5 +1,14 @@
 🌍 Available Languages:
 [German 🇩🇪](README.de.md) | [English 🇬🇧](README.md)
+// ------------------------------------------------------------
+// DANK – Ausdruck dezentraler Wertschöpfung
+// 
+// Dieses Werk steht unter der DANK Allmende License (DAL-1.0).
+// Nutzung, Veränderung und Weitergabe sind erlaubt, 
+// solange die Prinzipien der dezentralen, gemeinwohlorientierten Wertschöpfung gewahrt bleiben.
+//
+// Lizenztext: https://github.com/DANK-Wertschoepfung/LICENSE.md
+// ------------------------------------------------------------
 
 
 # 🙏 DANK
