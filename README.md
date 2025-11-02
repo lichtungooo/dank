@@ -346,17 +346,19 @@ Mitmachen können alle, die an dezentraler Technologie, sozialer Ökonomie und G
 
 ---
 
-## 🛡️ Lizenz
+### 🛡️ Lizenz
 
-Dieses Projekt steht unter der **GNU Affero General Public License v3.0 (AGPL-3.0)**.
+Dieses Projekt steht unter der **DANK Allmende License (DAL-1.0)**.
 
-* Nutzung, Veränderung und Weitergabe sind erlaubt.  
-* Jede abgeleitete oder betriebene Version muss ihren Quellcode offenlegen.  
-* Kommerzielle oder zentrale Nutzung ist nur erlaubt, wenn sie denselben gemeinschaftlichen Prinzipien folgt.  
+Nutzung, Veränderung und Weitergabe sind ausdrücklich erlaubt.
+Jede abgeleitete oder betriebene Version muss ihren **Quellcode offenlegen** und auf den Ursprung des DANK verweisen.
 
-> Der DANK bleibt Gemeingut – ein Werkzeug für Vertrauen, Begegnung und dezentrale Wertschöpfung.
+**Kommerzielle Nutzung** ist nur erlaubt, wenn sie **gemeinwohlorientiert** erfolgt
+und die Prinzipien der **dezentralen Wertschöpfung** wahrt: Offenheit, Vertrauen und Kooperation.
 
-Lizenz: [GNU AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.html)
+Der **DANK** bleibt **Allmende** – ein gemeinschaftliches Werkzeug für Vertrauen, Begegnung und geteilte Wertschöpfung.
+
+**Lizenz:** [DANK Allmende License (DAL-1.0)](./LICENSE.md)
 
 ---
 
