@@ -344,17 +344,22 @@ Everyone interested in decentralized technology, social economy, or cooperative 
 
 ---
 
-## 🛡️ License
+### 🛡️ License
 
-This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.
+This project is licensed under the **DANK Allmende License (DAL-1.0)**.
 
-* Use, modification, and redistribution are permitted.
-* Any derived or hosted version must publish its source code.
-* Commercial or centralized use is only allowed if it follows the same community principles.
+Use, modification, and redistribution are expressly permitted.
+Any derived or operated version must **publish its source code**
+and **acknowledge the origin of the DANK**.
 
-> DANK remains a commons – a tool for trust, connection, and decentralized value creation.
+**Commercial use** is only allowed if it serves the **common good**
+and upholds the principles of **decentralized value creation**:
+**openness, trust, and cooperation.**
 
-License: [GNU AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.html)
+The **DANK** remains a **commons** —
+a shared tool for trust, connection, and collective value creation.
+
+**License:** [DANK Allmende License (DAL-1.0)](./LICENSE_EN.md)
 
 ---
 
